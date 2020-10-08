@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(193, 236, 247);
+}
+hr
+{
+    background-color: cadetblue;
+    border-style: none;
+    height: 2px;
+    width: 90%;
+}
+h2
+{
+    color: cadetblue;
+    font-size: 14px;
+}
+
+a:hover
+{
+    color: red
+}
+
+.heading
+{
+    font-size: 48px;
+}
+#name
+{
+    color: cadetblue;
+    font-size: 78px;
+}
